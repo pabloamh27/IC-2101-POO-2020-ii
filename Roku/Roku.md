@@ -38,7 +38,7 @@ Salidas:
 Comportamiento:
 -Se toman los datos del usuario y se registran en la base de datos de Roku como un nuevo usuario.
 
-**Instalar en una Nueva Pantalla (Dispositivo)**
+**Instalar en una Nueva Pantalla**
 Entradas:
 -Marca
 -Modelo
@@ -51,17 +51,17 @@ Salidas:
 Comportamiento:
 -Se envian los datos de entrada a la base de datos y se inicia por medio del usb o dispositivo externo la configuracion de resolucion y otras caracteristicas.
 
-**Registrar Nuevo Patrocinador (Previamente negociado)**
+**Publicar Nuevo Servicio de streaming**
 Entradas:
 -Nombre
--Tipo de servicio
--Logo (.png)
+-Tipo de entretenimiento
+-Logo
 -Direccion web
 
 Salidas:
--Mensaje "Nuevo patrocinador registrado exitosamente".
+-Mensaje "Nuevo Servicio de streaming publicado exitosamente".
 
-Comportamiento: Se registran los datos en la base de datos y se muestra como nueva opcion de entretenimiento a los usuarios en sus dispositivos.
+Comportamiento: Se registra en la base de datos y se muestra como nueva opcion de entretenimiento a los usuarios en sus dispositivos.
 
 
 **Verificar Actualizacion de Software**
@@ -77,9 +77,9 @@ Comportamiento: Se compara la version del dato de entrada con la mas actualizada
 
 --Requerimientos no funcionales:--
 
--Portabilidad y Compatibilidad: A menos que el dispositivo o pantalla no tenga entrada HDMI Roku funcionara sin problemas, por lo que le da una alta compatibilidad y portabilidad. Ademas es un dispositivo muy pequeno por lo que es facil de transportar.
+-Portabilidad y Compatibilidad: A menos que la pantalla no tenga entrada HDMI Roku funcionara sin problemas, por lo que le da una alta compatibilidad y portabilidad. Ademas es un dispositivo muy pequeño por lo que es facil de transportar. Al tener su propio SO no debe ser compatible con otro software ademas de el mismo.
 
--Internacionalizacion y localizacion: Llegado a este punto el dispositivo Roku casi en cualquier pais ofrece sus servicios, siempre siguiendo las regulaciones de cada pais respectivamente.
+-Internacionalizacion y localizacion: Llegado a este punto el dispositivo Roku casi en cualquier pais ofrece sus servicios, siempre siguiendo las regulaciones de cada pais respectivamente. La empresa se ubica en Los Gatos, California, Estados Unidos y utiliza como moneda principal el dolar.
 
 
 
