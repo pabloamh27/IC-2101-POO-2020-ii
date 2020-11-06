@@ -1,0 +1,66 @@
+{
+   "aparatos":[
+    {
+      "nombre" : "Lavadora"
+     ,"marca" : "Whirlpool"
+     ,"tipo" : "modalidades"
+     ,"modalidades": ["delicado", "normal" , "fuerte"]
+    }, 
+    {
+      "nombre" : "Televisor"
+     ,"marca" : "Samsung"
+     ,"tipo" : "senales"
+     ,"senales": [7, 102 , 53, 44, 480]
+    },
+    {
+      "nombre" : "Aire Acondicionado"
+     ,"marca" : "LG"
+     ,"tipo" : "termoregulable"
+     ,"temperaturaMinima": 10
+     ,"temperaturaMaxima": 35
+    },
+    {
+      "nombre" : "Calefaccion Sillon"
+     ,"marca" : "Marco Rojas"
+     ,"tipo" : "termoregulable"
+     ,"temperaturaMinima": 15
+     ,"temperaturaMaxima": 40
+     },
+    {
+      "nombre" : "Disco de cocina"
+     ,"marca" : "Atlas"
+     ,"tipo" : "modalidades"
+     ,"modalidades": ["1", "2" , "3"]
+     },
+    {
+      "nombre" : "Secadora"
+     ,"marca" : "Mabe"
+     ,"tipo" : "modalidades"
+     ,"modalidades": ["Secado ultra-rapido", "Secado normal" , "Secado delicado"]
+     },
+    {
+      "nombre" : "Radio"
+     ,"marca" : "Nokia"
+     ,"tipo" : "senales"
+     ,"senales": [101.10, 97.8 , 55.69, 25.15, 80.1]
+     },
+    {
+      "nombre" : "Licuadora"
+     ,"marca" : "Atlas"
+     ,"tipo" : "modalidades"
+     ,"modalidades": ["1", "2" , "3"]
+     },
+    {
+      "nombre" : "Computadora"
+     ,"marca" : "Asus"
+     ,"tipo" : "modalidades"
+     ,"modalidades": ["Alto rendimiento", "Normal" , "Ahorro de energia"]
+     },
+    {
+      "nombre" : "Mostrar camara en televisor"
+     ,"marca" : "UltraVision"
+     ,"tipo" : "modalidades"
+     ,"modalidades": ["Camara Garaje", "Camara Entrada Principal" , "Camara Cuarto de los Niños"]
+     }
+  ]
+}
